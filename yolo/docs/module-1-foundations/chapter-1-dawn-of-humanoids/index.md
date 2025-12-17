@@ -17,3 +17,5 @@ The 20th century saw the birth of modern robotics, with the development of indus
 ## The Humanoid Era
 
 The late 20th and early 21st centuries have been a golden age for humanoid robotics. We will explore the groundbreaking work of pioneers like Honda with ASIMO, Boston Dynamics with Atlas, and the many other research groups and companies that are pushing the boundaries of what is possible.
+
+More recently, the convergence of advanced AI and machine learning with robotics has accelerated the development of humanoids. Companies like Tesla with its Optimus robot are leveraging breakthroughs in computer vision and deep learning to create robots capable of performing a wider range of tasks, bringing us closer to the dream of a general-purpose humanoid assistant.
