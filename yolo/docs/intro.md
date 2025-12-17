@@ -6,7 +6,7 @@ sidebar_position: 1
 
 An Interactive Textbook for Building the Next Generation of intelligent Robots.
 
-[Start Reading](./module-1-foundations/index.md)
+[Start Reading](./module-1-foundations/)
 
 This book teaches the fundamental principles of building intelligent robotic systems from scratch. We will explore how to integrate modern AI with physical hardware and simulation to create robots that can perceive, reason, and act in the real world.
 
